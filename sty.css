@@ -1,0 +1,50 @@
+#head{
+    color: lawngreen;
+}
+#bt{
+    color:lawngreen;
+}
+.we{
+    width: 100%;
+    height:500px;
+}
+#submit{
+    height: 33px;
+    background-color: orangered;
+    color: black;
+    /* top: 0;
+    position: absolute; */
+}
+#date-time{
+    background-color:palevioletred;
+}
+#city{
+    background-color:rebeccapurple;
+    color: black;
+}
+.whole{
+    background-color:blueviolet;
+}
+.dis{
+    display: flex;
+}
+.td{
+    display: flex;
+}
+.container{
+    width: 10%;
+    /* size:30rem; */
+    position: absolute;
+    /* width:50%; */
+    height:auto;
+    
+    /* position:center; */
+    /* justify-content: center; */
+    /* left: 200px; */
+    /* right: -250px; */
+    /* position:center; */
+    justify-content: center;
+    margin-top: 200px;
+    background-color:black;
+    
+}
